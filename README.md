@@ -1,4 +1,6 @@
 # GIT
+# Jack Babcock
+# March 26, 2019
 
 "At 9 o' clock on the evening of the eigth day of the eigth month of the year 1839, eight
 earnest young men, all students at Miami University, held the first meeting of Beta Theta Pi
